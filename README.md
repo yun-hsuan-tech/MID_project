@@ -43,7 +43,7 @@
 - **主迴圈 (while)**：負責檢查旗標來重置狀態、根據秒數切換健康/警告/生氣狀態，並動態調整 Timer 2 的 CCR 暫存器步伐，實現平滑的呼吸燈動畫。
 
 ## 8. 實作照片
-![board](docs/board.jpg)
+![board](doc/board.jpg)
 > 實作照片說明：接線時 PA2 與 PA3 需與 USB-to-TTL 模組交叉接線，外接 LED 需串聯保護電阻。
 
 ## 9. AI 使用說明
