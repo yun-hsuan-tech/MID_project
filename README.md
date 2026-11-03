@@ -45,6 +45,8 @@
 ## 8. 實作照片
 ![board](doc/board.jpg)
 > 實作照片說明：接線時 PA2 與 PA3 需與 USB-to-TTL 模組交叉接線，外接 LED 需串聯保護電阻。
+> ![board](doc/uart.png)
+> UART介面說明：顯示系統連線狀態以及提醒和警告用戶久坐。
 
 ## 9. AI 使用說明
 - **使用段落**：Timer PWM 動態調速邏輯、純暫存器 UART 傳送函式撰寫。
